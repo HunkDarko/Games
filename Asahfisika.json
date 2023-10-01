@@ -1,93 +1,102 @@
 [
   {
     "index": 0,
-    "soal": "Apa yang disebut dengan hukum kekekalan energi dalam fisika?",
-    "jawaban": "Energi tidak dapat diciptakan atau dimusnahkan. Hanya dapat berubah dari satu bentuk ke bentuk lain."
+    "soal": "Materi apa yang memiliki muatan positif atau negatif?",
+    "jawaban": "Elektron"
   },
   {
     "index": 1,
-    "soal": "Berapakah nilai dari percepatan gravitasi bumi?",
-    "jawaban": "9.81 m/s²"
+    "soal": "Gaya yang menahan gerakan relatif antara permukaan yang bersentuhan?",
+    "jawaban": "Gesekan"
   },
   {
     "index": 2,
-    "soal": "Apa nama hukum yang menyatakan bahwa tekanan dalam fluida meningkat dengan kedalaman?",
-    "jawaban": "Hukum Pascal."
+    "soal": "Gerak objek di sekitar sumbu berputar?",
+    "jawaban": "Rotasi"
   },
   {
     "index": 3,
-    "soal": "Apa hukum yang menyatakan bahwa setiap aksi memiliki reaksi yang sama besarnya dan berlawanan arah?",
-    "jawaban": "Hukum Newton ketiga."
+    "soal": "Pembelokan cahaya saat melewati permukaan antara dua medium?",
+    "jawaban": "Refraksi"
   },
   {
     "index": 4,
-    "soal": "Apa yang dimaksud dengan momentum dalam fisika?",
-    "jawaban": "Jumlah massa suatu objek dikalikan dengan kecepatannya."
+    "soal": "Sifat materi untuk menahan perubahan geraknya?",
+    "jawaban": "Inersia"
   },
   {
     "index": 5,
-    "soal": "Apa rumus untuk menghitung energi kinetik suatu objek?",
-    "jawaban": "E = 1/2 * m * v^2."
+    "soal": "Satuan panjang dalam SI?",
+    "jawaban": "Meter"
   },
   {
     "index": 6,
-    "soal": "Apa nama hukum yang menyatakan bahwa panas alami mengalir dari benda panas ke benda dingin?",
-    "jawaban": "Hukum Kedua Termodinamika."
+    "soal": "Perubahan kecepatan objek per satuan waktu?",
+    "jawaban": "Akselerasi"
   },
   {
     "index": 7,
-    "soal": "Apa hukum yang menyatakan bahwa gaya yang diberikan pada suatu objek akan mengubah kecepatannya?",
-    "jawaban": "Hukum Newton kedua (F = ma)."
+    "soal": "Satuan waktu dalam SI?",
+    "jawaban": "Detik"
   },
   {
     "index": 8,
-    "soal": "Berapakah kecepatan cahaya dalam vakum?",
-    "jawaban": "299.792.458 m/s."
+    "soal": "Ketika semua gaya pada objek seimbang?",
+    "jawaban": "Statis"
   },
   {
     "index": 9,
-    "soal": "Apa rumus untuk menghitung gaya gravitasi antara dua objek?",
-    "jawaban": "F = G * (m1 * m2) / r^2."
+    "soal": "Energi yang disimpan dalam pegas?",
+    "jawaban": "Elastis"
   },
   {
     "index": 10,
-    "soal": "Apa yang dimaksud dengan gaya gesekan kinetik?",
-    "jawaban": "Gaya yang menghalangi gerakan objek yang sudah bergerak."
+    "soal": "Muatan positif dan negatif yang seimbang?",
+    "jawaban": "Netral"
   },
   {
     "index": 11,
-    "soal": "Apa yang dimaksud dengan daya dalam fisika?",
-    "jawaban": "Kemampuan untuk melakukan pekerjaan atau mengubah energi dari satu bentuk ke bentuk lainnya."
+    "soal": "Perubahan posisi objek dalam waktu?",
+    "jawaban": "Gerak"
   },
   {
     "index": 12,
-    "soal": "Berapakah nilai dari Cos 60°?",
-    "jawaban": "1/2."
+    "soal": "Pembelokan gelombang saat melalui celah atau sudut?",
+    "jawaban": "Difraksi"
   },
   {
     "index": 13,
-    "soal": "Apa rumus untuk menghitung tegangan dalam rangkaian listrik?",
-    "jawaban": "V = IR."
+    "soal": "Satuan massa dalam SI?",
+    "jawaban": "Kilogram"
   },
   {
     "index": 14,
-    "soal": "Apa hukum yang menyatakan bahwa setiap objek tetap akan tetap bergerak atau tetap diam kecuali jika ada gaya yang bekerja padanya?",
-    "jawaban": "Hukum Newton pertama (Hukum kelembaman)."
+    "soal": "Bagian terkecil dari unsur?",
+    "jawaban": "Atom"
   },
   {
     "index": 15,
-    "soal": "Apa yang disebut dengan sudut yang sama besar dengan pusat lingkaran?",
-    "jawaban": "Sudut Sumbu."
+    "soal": "Kekuatan yang menarik objek ke pusat bumi?",
+    "jawaban": "Gravitasi"
   },
   {
     "index": 16,
-    "soal": "Apa rumus untuk menghitung energi potensial gravitasi?",
-    "jawaban": "E = m * g * h."
+    "soal": "Perubahan posisi dalam arah tertentu?",
+    "jawaban": "Translasi"
   },
   {
     "index": 17,
-    "soal": "Apa yang disebut dengan gerak parabola?",
-    "jawaban": "Gerakan yang mengikuti pola lintasan seperti parabola."
+    "soal": "Muatan listrik yang tidak bergerak?",
+    "jawaban": "Statis"
+  },
+  {
+    "index": 18,
+    "soal": "Gaya yang menarik objek ke bawah?",
+    "jawaban": "Berat"
+  },
+  {
+    "index": 19,
+    "soal": "Satuan waktu dalam SI?",
+    "jawaban": "Detik"
   }
 ]
- 
