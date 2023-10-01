@@ -1,8 +1,8 @@
- [
+[
   {
     "index": 0,
     "soal": "Apa yang disebut dengan hukum kekekalan energi dalam fisika?",
-    "jawaban": "Energi tidak dapat diciptakan atau dimusnahkan, hanya dapat berubah dari satu bentuk ke bentuk lain"
+    "jawaban": "Energi tidak dapat diciptakan atau dimusnahkan. Hanya dapat berubah dari satu bentuk ke bentuk lain."
   },
   {
     "index": 1,
@@ -12,499 +12,82 @@
   {
     "index": 2,
     "soal": "Apa nama hukum yang menyatakan bahwa tekanan dalam fluida meningkat dengan kedalaman?",
-    "jawaban": "Hukum Pascal"
+    "jawaban": "Hukum Pascal."
   },
   {
     "index": 3,
     "soal": "Apa hukum yang menyatakan bahwa setiap aksi memiliki reaksi yang sama besarnya dan berlawanan arah?",
-    "jawaban": "Hukum Newton ketiga"
+    "jawaban": "Hukum Newton ketiga."
   },
   {
     "index": 4,
     "soal": "Apa yang dimaksud dengan momentum dalam fisika?",
-    "jawaban": "Jumlah massa suatu objek dikalikan dengan kecepatannya"
+    "jawaban": "Jumlah massa suatu objek dikalikan dengan kecepatannya."
   },
   {
     "index": 5,
     "soal": "Apa rumus untuk menghitung energi kinetik suatu objek?",
-    "jawaban": "E = 1/2 * m * v^2"
+    "jawaban": "E = 1/2 * m * v^2."
   },
   {
     "index": 6,
     "soal": "Apa nama hukum yang menyatakan bahwa panas alami mengalir dari benda panas ke benda dingin?",
-    "jawaban": "Hukum Kedua Termodinamika"
+    "jawaban": "Hukum Kedua Termodinamika."
   },
   {
     "index": 7,
     "soal": "Apa hukum yang menyatakan bahwa gaya yang diberikan pada suatu objek akan mengubah kecepatannya?",
-    "jawaban": "Hukum Newton kedua (F = ma)"
+    "jawaban": "Hukum Newton kedua (F = ma)."
   },
   {
     "index": 8,
     "soal": "Berapakah kecepatan cahaya dalam vakum?",
-    "jawaban": "299,792,458 m/s"
+    "jawaban": "299.792.458 m/s."
   },
   {
     "index": 9,
     "soal": "Apa rumus untuk menghitung gaya gravitasi antara dua objek?",
-    "jawaban": "F = G * (m1 * m2) / r^2"
+    "jawaban": "F = G * (m1 * m2) / r^2."
   },
   {
     "index": 10,
     "soal": "Apa yang dimaksud dengan gaya gesekan kinetik?",
-    "jawaban": "Gaya yang menghalangi gerakan objek yang sudah bergerak"
+    "jawaban": "Gaya yang menghalangi gerakan objek yang sudah bergerak."
   },
   {
     "index": 11,
     "soal": "Apa yang dimaksud dengan daya dalam fisika?",
-    "jawaban": "Kemampuan untuk melakukan pekerjaan atau mengubah energi dari satu bentuk ke bentuk lainnya"
+    "jawaban": "Kemampuan untuk melakukan pekerjaan atau mengubah energi dari satu bentuk ke bentuk lainnya."
   },
   {
     "index": 12,
     "soal": "Berapakah nilai dari Cos 60°?",
-    "jawaban": "1/2"
+    "jawaban": "1/2."
   },
   {
     "index": 13,
     "soal": "Apa rumus untuk menghitung tegangan dalam rangkaian listrik?",
-    "jawaban": "V = IR"
+    "jawaban": "V = IR."
   },
   {
     "index": 14,
     "soal": "Apa hukum yang menyatakan bahwa setiap objek tetap akan tetap bergerak atau tetap diam kecuali jika ada gaya yang bekerja padanya?",
-    "jawaban": "Hukum Newton pertama (Hukum kelembaman)"
+    "jawaban": "Hukum Newton pertama (Hukum kelembaman)."
   },
   {
     "index": 15,
     "soal": "Apa yang disebut dengan sudut yang sama besar dengan pusat lingkaran?",
-    "jawaban": "Sudut Sumbu"
+    "jawaban": "Sudut Sumbu."
   },
   {
     "index": 16,
     "soal": "Apa rumus untuk menghitung energi potensial gravitasi?",
-    "jawaban": "E = m * g * h"
+    "jawaban": "E = m * g * h."
   },
   {
     "index": 17,
     "soal": "Apa yang disebut dengan gerak parabola?",
-    "jawaban": "Gerakan yang mengikuti pola lintasan seperti parabola"
-  },
-  {
-    "index": 18,
-    "soal": "Apa nama hukum yang menyatakan bahwa untuk setiap tindakan ada reaksi yang sama besarnya dan berlawanan arah?",
-    "jawaban": "Hukum Newton ketiga"
-  },
-  {
-    "index": 19,
-    "soal": "Apa yang disebut dengan momentum sudut dalam fisika?",
-    "jawaban": "Kuantitas yang mengukur seberapa sulit bagi suatu objek untuk berhenti berputar"
-  },
-  {
-    "index": 20,
-    "soal": "Apa yang disebut dengan perpindahan dalam fisika?",
-    "jawaban": "Jarak dan arah dari posisi awal ke posisi akhir objek"
-  },
-  {
-    "index": 21,
-    "soal": "Apa rumus untuk menghitung gaya?",
-    "jawaban": "F = m * a"
-  },
-  {
-    "index": 22,
-    "soal": "Apa nama hukum yang menyatakan bahwa panas alami mengalir dari benda panas ke benda dingin?",
-    "jawaban": "Hukum Kedua Termodinamika"
-  },
-  {
-    "index": 23,
-    "soal": "Apa rumus untuk menghitung momentum?",
-    "jawaban": "p = m * v"
-  },
-  {
-    "index": 24,
-    "soal": "Apa yang dimaksud dengan medan gravitasi?",
-    "jawaban": "Area di sekitar benda yang merasakan gaya gravitasi benda tersebut"
-  },
-  {
-    "index": 25,
-    "soal": "Apa rumus untuk menghitung daya?",
-    "jawaban": "P = W / t"
-  },
-  {
-    "index": 26,
-    "soal": "Apa yang disebut dengan hukum kekekalan momentum?",
-    "jawaban": "Total momentum sistem akan tetap konstan jika tidak ada gaya eksternal yang bekerja padanya"
-  },
-{
-    "index": 27,
-    "soal": "Apa yang disebut dengan titik berat suatu objek?",
-    "jawaban": "Titik di mana seluruh massa objek terkonsentrasi"
-  },
-  {
-    "index": 28,
-    "soal": "Apa rumus untuk menghitung percepatan?",
-    "jawaban": "a = Δv / Δt"
-  },
-  {
-    "index": 29,
-    "soal": "Apa yang dimaksud dengan refraksi dalam fisika?",
-    "jawaban": "Pembelokan cahaya saat melintasi permukaan antara dua medium dengan indeks refraksi yang berbeda"
-  },
-  {
-    "index": 30,
-    "soal": "Apa rumus untuk menghitung daya gesekan?",
-    "jawaban": "Fg = μ * N"
-  },
-  {
-    "index": 31,
-    "soal": "Apa yang disebut dengan momentum sudut dalam fisika?",
-    "jawaban": "Kuantitas yang mengukur rotasi suatu objek"
-  },
-  {
-    "index": 32,
-    "soal": "Apa rumus untuk menghitung kecepatan?",
-    "jawaban": "v = d / t"
-  },
-  {
-    "index": 33,
-    "soal": "Apa yang dimaksud dengan percepatan gravitasi?",
-    "jawaban": "Percepatan yang diberikan kepada objek yang jatuh bebas di dekat permukaan bumi"
-  },
-  {
-    "index": 34,
-    "soal": "Apa rumus untuk menghitung energi kinetik rotasi?",
-    "jawaban": "KErotasi = 1/2 * I * ω^2"
-  },
-  {
-    "index": 35,
-    "soal": "Apa yang disebut dengan hukum kekekalan momentum sudut?",
-    "jawaban": "Jumlah momentum sudut dalam suatu sistem akan tetap konstan jika tidak ada gaya eksternal yang bekerja padanya"
-  },
-  {
-    "index": 36,
-    "soal": "Apa rumus untuk menghitung kerja?",
-    "jawaban": "W = F * d * cos(θ)"
-  },
-  {
-    "index": 37,
-    "soal": "Apa yang disebut dengan hukum kekekalan energi kinetik?",
-    "jawaban": "Total energi kinetik sistem akan tetap konstan jika tidak ada gaya eksternal yang bekerja padanya"
-  },
-  {
-    "index": 38,
-    "soal": "Apa rumus untuk menghitung momen inersia?",
-    "jawaban": "I = ∫r^2 dm"
-  },
-  {
-    "index": 39,
-    "soal": "Apa yang disebut dengan efek Doppler?",
-    "jawaban": "Perubahan frekuensi gelombang suara atau cahaya akibat gerakan relatif antara sumber dan pengamat"
-  },
-  {
-    "index": 40,
-    "soal": "Apa rumus untuk menghitung gaya gravitasi pada planet?",
-    "jawaban": "F = (G * m1 * m2) / r^2"
-  },
-  {
-    "index": 41,
-    "soal": "Apa yang dimaksud dengan hukum Newton kedua?",
-    "jawaban": "Hubungan antara gaya yang bekerja pada objek dan percepatan yang dihasilkan oleh gaya tersebut"
-  },
-  {
-    "index": 42,
-    "soal": "Apa rumus untuk menghitung tegangan listrik?",
-    "jawaban": "V = I * R"
-  },
-  {
-    "index": 43,
-    "soal": "Apa yang disebut dengan energi potensial elastis?",
-    "jawaban": "Energi yang disimpan dalam benda yang dapat mengalami deformasi elastis, seperti pegas"
-  },
-  {
-    "index": 44,
-    "soal": "Apa rumus untuk menghitung usaha?",
-    "jawaban": "W = F * d"
-  },
-  {
-    "index": 45,
-    "soal": "Apa yang dimaksud dengan hukum Hooke?",
-    "jawaban": "Hukum yang menyatakan bahwa perpanjangan atau kompresi pegas berbanding lurus dengan gaya yang bekerja pada pegas tersebut"
-  },
-  {
-    "index": 46,
-    "soal": "Apa rumus untuk menghitung daya listrik?",
-    "jawaban": "P = VI"
-  },
-  {
-    "index": 47,
-    "soal": "Apa yang disebut dengan gaya tarik?",
-    "jawaban": "Gaya yang bekerja pada suatu objek yang ditarik atau diregangkan, seperti tali atau pegas"
-  },
-  {
-    "index": 48,
-    "soal": "Apa rumus untuk menghitung percepatan gravitasi?",
-    "jawaban": "g = GM / r^2"
-  },
-  {
-    "index": 49,
-    "soal": "Apa yang disebut dengan hukum Coulomb?",
-    "jawaban": "Hukum yang menggambarkan gaya elektrostatik antara dua muatan listrik"
-  },
-  {
-    "index": 50,
-    "soal": "Apa rumus untuk menghitung energi potensial listrik?",
-    "jawaban": "U = k * (q1 * q2) / r"
-  },
-   
-  {
-    "index": 51,
-    "soal": "Apa yang dimaksud dengan percepatan sentripetal?",
-    "jawaban": "Percepatan yang mengarah ke pusat suatu lingkaran atau lintasan melingkar"
-  },
-  {
-    "index": 52,
-    "soal": "Apa rumus untuk menghitung frekuensi gelombang?",
-    "jawaban": "f = 1 / T"
-  },
-  {
-    "index": 53,
-    "soal": "Apa yang disebut dengan hukum Faraday tentang elektromagnetisme?",
-    "jawaban": "Hukum yang menyatakan bahwa perubahan fluks magnetik dalam suatu rangkaian akan menghasilkan arus listrik"
-  },
-  {
-    "index": 54,
-    "soal": "Apa rumus untuk menghitung gaya gesekan statis maksimum?",
-    "jawaban": "Fg = μs * N"
-  },
-  {
-    "index": 55,
-    "soal": "Apa yang dimaksud dengan kecepatan terminal?",
-    "jawaban": "Kecepatan konstan yang dicapai oleh suatu objek yang jatuh bebas di udara karena gaya gesekan udara yang sebanding dengan gaya gravitasi"
-  },
-  {
-    "index": 56,
-    "soal": "Apa rumus untuk menghitung energi kinetik?",
-    "jawaban": "KE = 1/2 * mv^2"
-  },
-  {
-    "index": 57,
-    "soal": "Apa yang disebut dengan hukum Archimedes?",
-    "jawaban": "Hukum yang menyatakan bahwa gaya apung yang dialami oleh suatu benda di dalam fluida sama dengan berat fluida yang dipindahkan oleh benda tersebut"
-  },
-  {
-    "index": 58,
-    "soal": "Apa rumus untuk menghitung usaha dalam proses isobarik?",
-    "jawaban": "W = P * (Vf - Vi)"
-  },
-  {
-    "index": 59,
-    "soal": "Apa yang dimaksud dengan efek fotoelektrik?",
-    "jawaban": "Fenomena di mana cahaya yang mengenai permukaan logam menyebabkan pelepasan elektron dari permukaan tersebut"
-  },
-  {
-    "index": 60,
-    "soal": "Apa rumus untuk menghitung tekanan?",
-    "jawaban": "P = F / A"
-  },
-  {
-    "index": 61,
-    "soal": "Apa yang disebut dengan hukum Boyle?",
-    "jawaban": "Hukum yang menyatakan bahwa pada suhu konstan, tekanan dan volume gas berbanding terbalik"
-  },
-  {
-    "index": 62,
-    "soal": "Apa rumus untuk menghitung periode gelombang?",
-    "jawaban": "T = 1 / f"
-  },
-  {
-    "index": 63,
-    "soal": "Apa yang dimaksud dengan hukum Snell tentang pembiasan?",
-    "jawaban": "Hukum yang menjelaskan perubahan arah gelombang cahaya saat melintasi batas antara dua media dengan kecepatan cahaya yang berbeda"
-  },
-  {
-    "index": 64,
-    "soal": "Apa rumus untuk menghitung indeks refraksi?",
-    "jawaban": "n = c / v"
-  },
-  {
-    "index": 65,
-    "soal": "Apa yang disebut dengan hukum Ohm?",
-    "jawaban": "Hukum yang menyatakan bahwa arus dalam rangkaian listrik sebanding dengan tegangan dan berbanding terbalik dengan hambatan"
-  },
-  {
-    "index": 66,
-    "soal": "Apa rumus untuk menghitung hukum Ohm?",
-    "jawaban": "V = IR"
-  },
-  {
-    "index": 67,
-    "soal": "Apa yang dimaksud dengan daya listrik?",
-    "jawaban": "Daya yang dihasilkan atau digunakan dalam suatu rangkaian listrik"
-  },
-  {
-    "index": 68,
-    "soal": "Apa rumus untuk menghitung daya listrik?",
-    "jawaban": "P = IV"
-  },
-  {
-    "index": 69,
-    "soal": "Apa yang disebut dengan efek Joule?",
-    "jawaban": "Pemanasan benda akibat aliran arus listrik"
-  },
-  {
-    "index": 70,
-    "soal": "Apa rumus untuk menghitung efisiensi dalam fisika?",
-    "jawaban": "Efisiensi = (Pout / Pin) * 100%"
-  },
-  {
-    "index": 71,
-    "soal": "Apa yang dimaksud dengan gaya elektromagnetik?",
-    "jawaban": "Gaya yang timbul akibat interaksi antara muatan listrik yang bergerak dan medan magnetik"
-  },
-  {
-    "index": 72,
-    "soal": "Apa rumus untuk menghitung gaya elektromagnetik?",
-    "jawaban": "F = q * v * B * sin(θ)"
-  },
-  {
-    "index": 73,
-    "soal": "Apa yang disebut dengan hukum Gauss dalam elektrostatika?",
-    "jawaban": "Hukum yang menyatakan bahwa fluks medan listrik melalui suatu permukaan tertutup sama dengan muatan total yang ada di dalam permukaan tersebut dibagi dengan ε0"
-  },
-  {
-    "index": 74,
-    "soal": "Apa rumus untuk menghitung fluks medan listrik?",
-    "jawaban": "Φ = E * A * cos(θ)"
-  },
-  {
-    "index": 75,
-    "soal": "Apa yang
-    "index": 75,
-    "soal": "Apa yang dimaksud dengan induksi elektromagnetik?",
-    "jawaban": "Fenomena di mana perubahan medan magnetik dalam suatu rangkaian menghasilkan arus listrik dalam rangkaian tersebut"
-  },
-  {
-    "index": 76,
-    "soal": "Apa rumus untuk menghitung hukum Faraday tentang induksi elektromagnetik?",
-    "jawaban": "ε = -dΦ/dt"
-  },
-  {
-    "index": 77,
-    "soal": "Apa yang disebut dengan hukum Ampere?",
-    "jawaban": "Hukum yang menyatakan bahwa jumlah medan magnetik yang melingkupi suatu lintasan tertutup sama dengan jumlah arus listrik yang melalui lintasan tersebut"
-  },
-  {
-    "index": 78,
-    "soal": "Apa rumus untuk menghitung hukum Ampere?",
-    "jawaban": "∮B⋅dl = μ0 * I"
-  },
-  {
-    "index": 79,
-    "soal": "Apa yang dimaksud dengan indeks bias?",
-    "jawaban": "Indeks yang mengukur seberapa banyak cahaya dibelokkan saat melintasi suatu medium dengan indeks refraksi yang berbeda"
-  },
-  {
-    "index": 80,
-    "soal": "Apa rumus untuk menghitung sudut pembiasan?",
-    "jawaban": "sin(θ1) / sin(θ2) = n2 / n1"
-  },
-  {
-    "index": 81,
-    "soal": "Apa yang disebut dengan gaya gravitasi?",
-    "jawaban": "Gaya tarik antara dua objek yang disebabkan oleh massa keduanya"
-  },
-  {
-    "index": 82,
-    "soal": "Apa rumus untuk menghitung potensial listrik?",
-    "jawaban": "V = k * q / r"
-  },
-  {
-    "index": 83,
-    "soal": "Apa yang dimaksud dengan hukum Gauss dalam elektromagnetik?",
-    "jawaban": "Hukum yang menyatakan bahwa fluks medan listrik melalui suatu permukaan tertutup sama dengan muatan total yang ada di dalam permukaan tersebut dibagi dengan ε0"
-  },
-  {
-    "index": 84,
-    "soal": "Apa rumus untuk menghitung fluks medan listrik?",
-    "jawaban": "Φ = E * A * cos(θ)"
-  },
-  {
-    "index": 85,
-    "soal": "Apa yang dimaksud dengan resonansi dalam rangkaian listrik?",
-    "jawaban": "Keadaan di mana frekuensi sumber arus atau tegangan sesuai dengan frekuensi alami rangkaian"
-  },
-  {
-    "index": 86,
-    "soal": "Apa rumus untuk menghitung impedansi dalam rangkaian RLC?",
-    "jawaban": "Z = √(R^2 + (Xl - Xc)^2)"
-  },
-  {
-    "index": 87,
-    "soal": "Apa yang disebut dengan gelombang elektromagnetik?",
-    "jawaban": "Gelombang yang terdiri dari medan listrik dan medan magnetik yang saling terkait dan merambat melalui ruang hampa"
-  },
-  {
-    "index": 88,
-    "soal": "Apa rumus untuk menghitung kecepatan gelombang elektromagnetik?",
-    "jawaban": "c = 1 / √(μ0 * ε0)"
-  },
-  {
-    "index": 89,
-    "soal": "Apa yang dimaksud dengan tingkat intensitas suara?",
-    "jawaban": "Energi yang dibawa oleh gelombang suara per satuan waktu per satuan luas"
-  },
-  {
-    "index": 90,
-    "soal": "Apa rumus untuk menghitung intensitas suara?",
-    "jawaban": "I = P / A"
-  },
-  {
-    "index": 91,
-    "soal": "Apa yang disebut dengan interferensi dalam fisika gelombang?",
-    "jawaban": "Pertemuan dua atau lebih gelombang dengan amplitudo yang berbeda sehingga menghasilkan pola interferensi"
-  },
-  {
-    "index": 92,
-    "soal": "Apa rumus untuk menghitung efek Doppler suara?",
-    "jawaban": "f' = f * (v + vo) / (v + vs)"
-  },
-  {
-    "index": 93,
-    "soal": "Apa yang dimaksud dengan suara ultrasonik?",
-    "jawaban": "Gelombang suara dengan frekuensi di atas rentang pendengaran manusia (lebih dari 20.000 Hz)"
-  },
-  {
-    "index": 94,
-    "soal": "Apa rumus untuk menghitung indeks bias pada pembiasan cahaya?",
-    "jawaban": "n1 *
-  {
-    "index": 94,
-    "soal": "Apa rumus untuk menghitung indeks bias pada pembiasan cahaya?",
-    "jawaban": "n1 * sin(θ1) = n2 * sin(θ2)"
-  },
-  {
-    "index": 95,
-    "soal": "Apa yang dimaksud dengan pemantulan dalam fisika?",
-    "jawaban": "Pantulan cahaya atau gelombang dari permukaan saat cahaya atau gelombang tersebut mengenainya"
-  },
-  {
-    "index": 96,
-    "soal": "Apa rumus untuk menghitung sudut pantul?",
-    "jawaban": "θ1 = θ2"
-  },
-  {
-    "index": 97,
-    "soal": "Apa yang disebut dengan hukum refleksi?",
-    "jawaban": "Hukum yang menyatakan bahwa sudut datang sama dengan sudut pantul saat cahaya memantul dari permukaan"
-  },
-  {
-    "index": 98,
-    "soal": "Apa rumus untuk menghitung daya dalam fisika?",
-    "jawaban": "P = W / t"
-  },
-  {
-    "index": 99,
-    "soal": "Apa yang dimaksud dengan teori relativitas?",
-    "jawaban": "Teori fisika yang dikembangkan oleh Albert Einstein yang menggambarkan hubungan antara ruang dan waktu"
+    "jawaban": "Gerakan yang mengikuti pola lintasan seperti parabola."
   }
 ]
-
+ 
