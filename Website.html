@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hunk Darko</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    body {
+      margin: 0;
+      background-image: url(https://telegra.ph/file/5178a67653fd4c295e934.jpg);
+      background-size: cover;
+      backdrop-filter: blur(10px);
+      background-repeat: no-repeat;
+      height: 100vh;
+      font-family: 'Poppins', Arial, sans-serif;
+      color: white;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .logo {
+      background-image: url(https://telegra.ph/file/6e8169e6a5231f699f166.jpg);
+      background-size: cover;
+      width: 150px;
+      height: 150px;
+      border-radius: 100%;
+      border: 3px solid #123;
+      margin-bottom: 30px;
+    }
+
+    .portfolio-handler {
+      font-size: 50px;
+      margin-bottom: 20px;
+    }
+
+    .link-list {
+      list-style-type: none;
+      padding: 0;
+      width: 100%;
+      max-width: 600px;
+    }
+
+    .link-list li {
+      margin-bottom: 10px;
+    }
+
+    .link-list a {
+      text-decoration: none;
+      color: #45b1e8;
+      border: 2px solid #45b1e8;
+      padding: 25px;
+      display: block;
+      text-align: center;
+      border-radius: 50px;
+      transition: background-color 0.1s;
+    }
+
+    .link-list a:hover {
+      color: red;
+      border: 2px solid red;
+    }
+
+    @media (max-width: 500px) {
+      .link-list {
+        width: 100%;
+      }
+    }
+  </style>
+  <script>
+    function tampilkanJam() {
+      var waktu = new Date();
+      var jam = waktu.getHours();
+      var menit = waktu.getMinutes();
+      var detik = waktu.getSeconds();
+
+      jam = padZero(jam);
+      menit = padZero(menit);
+      detik = padZero(detik);
+
+      var waktuString = jam + ":" + menit + ":" + detik;
+
+      document.getElementById("jam").innerHTML = waktuString;
+
+      setTimeout(tampilkanJam, 1000);
+    }
+
+    function padZero(nilai) {
+      return nilai < 10 ? "0" + nilai : nilai;
+    }
+  </script>
+</head>
+<body onload="tampilkanJam()">
+  <div class="container">
+    <div class="logo"></div>
+    <div class="portfolio-handler">Hunk Darko</div>
+    <div>Hi, I am Zee, I live in Bandung, West Java, I am 20 years old</div>
+    <ul class="link-list">
+      <li><a href="https://instagram.com/zeeskuy77">Instagram</a></li>
+      <li><a href="https://t.me/nama_pengguna">Telegram</a></li>
+      <li><a href="https://wa.me/6282119088569">WhatsApp</a></li>
+      <li><a href="#">TikTok</a></li>
+      <li><a href="https://chat.whatsapp.com/Hcw3HGXM8hlEWQBGJXLYdf">groupwhatapp</a></li>
+      <li><a href="https://chat.whatsapp.com/Hcw3HGXM8hlEWQBGJXLYdf">gcbot</a></li>
+    </ul>
+  </div>
+</body>
+</html>
