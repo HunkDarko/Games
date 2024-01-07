@@ -103,5 +103,407 @@
     "index": 20,
     "soal" : "Kejadian yang sama disebut?",
     "jawaban" : "Simultan"
-  }
+  },
+
+  {
+    "index": 21,
+    "soal": "Apa yang dimaksud dengan percepatan?",
+    "jawaban": "Perubahan kecepatan suatu benda dalam selang waktu tertentu."
+  },
+  {
+    "index": 22,
+    "soal": "Apa satuan percepatan dalam SI?",
+    "jawaban": "Meter per sekon kuadrat (m/s²)"
+  },
+  {
+    "index": 23,
+    "soal": "Apa persamaan percepatan?",
+    "jawaban": "Percepatan = (Kecepatan akhir - Kecepatan awal) / Selang waktu"
+  },
+  {
+    "index": 24,
+    "soal": "Apa yang dimaksud dengan gaya?",
+    "jawaban": "Interaksi antara dua benda yang dapat menyebabkan perubahan kecepatan atau bentuk benda."
+  },
+  {
+    "index": 25,
+    "soal": "Apa satuan gaya dalam SI?",
+    "jawaban": "Newton (N)"
+  },
+  {
+    "index": 26,
+    "soal": "Apa persamaan gaya?",
+    "jawaban": "Gaya = Massa x Percepatan"
+  },
+  {
+    "index": 27,
+    "soal": "Apa yang dimaksud dengan usaha?",
+    "jawaban": "Besaran fisika yang menggambarkan jumlah energi yang dipindahkan dari satu benda ke benda lain."
+  },
+  {
+    "index": 28,
+    "soal": "Apa satuan usaha dalam SI?",
+    "jawaban": "Joule (J)"
+  },
+  {
+    "index": 29,
+    "soal": "Apa persamaan usaha?",
+    "jawaban": "Usaha = Gaya x Jarak"
+  },
+  {
+    "index": 30,
+    "soal": "Apa yang dimaksud dengan energi?",
+    "jawaban": "Kemampuan untuk melakukan usaha."
+  },
+  {
+    "index": 31,
+    "soal": "Apa satuan energi dalam SI?",
+    "jawaban": "Joule (J)"
+  },
+  {
+    "index": 32,
+    "soal": "Apa saja bentuk-bentuk energi?",
+    "jawaban": "Energi kinetik, energi potensial, energi panas, energi listrik, dan energi kimia."
+  },
+  {
+    "index": 33,
+    "soal": "Apa yang dimaksud dengan momentum?",
+    "jawaban": "Besaran fisika yang menggambarkan jumlah gerakan suatu benda."
+  },
+  {
+    "index": 34,
+    "soal": "Apa satuan momentum dalam SI?",
+    "jawaban": "Kilogram meter per sekon (kg m/s)"
+  },
+  {
+    "index": 35,
+    "soal": "Apa persamaan momentum?",
+    "jawaban": "Momentum = Massa x Kecepatan"
+  },
+  {
+    "index": 36,
+    "soal": "Apa yang dimaksud dengan impuls?",
+    "jawaban": "Besaran fisika yang menggambarkan perubahan momentum suatu benda."
+  },
+  {
+    "index": 37,
+    "soal": "Apa satuan impuls dalam SI?",
+    "jawaban": "Newton sekon (N s)"
+  },
+  {
+    "index": 38,
+    "soal": "Apa persamaan impuls?",
+    "jawaban": "Impuls = Gaya x Selang waktu"
+  },
+  {
+    "index": 39,
+    "soal": "Apa yang dimaksud dengan gaya berat?",
+    "jawaban": "Gaya tarik bumi terhadap suatu benda."
+  },
+  {
+    "index": 40,
+    "soal": "Apa satuan gaya berat dalam SI?",
+    "jawaban": "Newton (N)"
+  },
+  {
+    "index": 41,
+    "soal": "Apa persamaan gaya berat?",
+    "jawaban": "Gaya berat = Massa x Percepatan gravitasi"
+  },
+  {
+    "index": 42,
+    "soal": "Sebuah benda bergerak dengan kecepatan 10 m/s dan mengalami percepatan 2 m/s^2. Berapa jarak yang ditempuh benda tersebut dalam waktu 5 sekon?",
+    "jawaban": "75 meter"
+  },
+  {
+    "index": 43,
+    "soal": "Sebuah benda memiliki energi kinetik 100 J dan massa 10 kg. Berapa kecepatan benda tersebut?",
+    "jawaban": "10 m/s"
+  },
+  {
+    "index": 44,
+    "soal": "Sebuah benda memiliki energi potensial 100 J dan massa 10 kg. Berapa tinggi benda tersebut?",
+    "jawaban": "10 meter"
+  },
+  {
+    "index": 45,
+    "soal": "Sebuah benda memiliki momentum 10 kg m/s. Berapa kecepatan benda tersebut?",
+    "jawaban": "1 m/s"
+  },
+  {
+    "index": 46,
+    "soal": "Sebuah benda memiliki impuls 10 Ns. Berapakah gaya yang bekerja pada benda tersebut selama 1 sekon?",
+    "jawaban": "10 N"
+  },
+  {
+    "index": 47,
+    "soal": "Sebuah benda memiliki gaya berat 10 N. Berapakah massa benda tersebut?",
+    "jawaban": "1 kg"
+  },
+  {
+    "index": 48,
+    "soal": "Sebuah benda memiliki massa 10 kg dan volume 10 m^3. Berapakah massa jenis benda tersebut?",
+    "jawaban": "1 kg/m^3"
+  },
+  {
+    "index": 49,
+    "soal": "Sebuah benda memiliki panjang 10 m, lebar 5 m, dan tinggi 2 m. Berapakah volume benda tersebut?",
+    "jawaban": "100 m^3"
+  },
+  {
+    "index": 50,
+    "soal": "Sebuah benda memiliki massa 10 kg dan volume 10 m^3. Berapakah kerapatan benda tersebut?",
+    "jawaban": "1 kg/m^3"
+  },
+  {
+    "index": 51,
+    "soal": "Sebuah benda memiliki kalor jenis 1000 J/kg K dan massa 10 kg. Berapakah kalor yang diperlukan untuk menaikkan suhu benda tersebut sebesar 10 derajat Celcius?",
+    "jawaban": "100.000 J"
+  },
+  {
+    "index": 52,
+    "soal": "Sebuah benda memiliki kalor laten lebur 334 kJ/kg dan massa 10 kg. Berapakah kalor yang diperlukan untuk mencairkan benda tersebut?",
+    "jawaban": "3340 kJ"
+  },
+  {
+    "index": 53,
+    "soal": "Sebuah benda memiliki kalor laten uap 2257 kJ/kg dan massa 10 kg. Berapakah kalor yang diperlukan untuk menguapkan benda tersebut?",
+    "jawaban": "22570 kJ"
+  },
+  {
+    "index": 54,
+    "soal": "Sebuah benda memiliki konduktivitas termal 100 W/m K dan luas penampang 10 m^2. Berapakah laju perpindahan kalor melalui benda tersebut jika gradien suhu 10 derajat Celcius/meter?",
+    "jawaban": "1000 W"
+  },
+  {
+    "index": 55,
+    "soal": "Sebuah benda memiliki emisivitas 0,9 dan luas permukaan 10 m^2. Berapakah laju radiasi kalor dari benda tersebut jika suhu benda 100 derajat Celcius?",
+    "jawaban": "1000 W"
+  },
+  {
+    "index": 56,
+    "soal": "Sebuah benda memiliki muatan listrik 10 C. Berapakah kuat medan listrik yang dihasilkan oleh benda tersebut pada jarak 1 meter?",
+    "jawaban": "10 N/C"
+  },
+  {
+    "index": 57,
+    "soal": "Sebuah benda memiliki muatan listrik 10 C dan benda lainnya memiliki muatan listrik -10 C. Berapakah gaya tarik-menarik antara kedua benda tersebut?",
+    "jawaban": "100 N"
+  },
+  {
+    "index": 58,
+    "soal": "Sebuah benda memiliki kapasitansi 10 F dan dihubungkan dengan sumber tegangan 10 V. Berapa muatan listrik pada benda tersebut?",
+    "jawaban": "100 C"
+  },
+  {
+    "index": 59,
+    "soal": "Sebuah benda memiliki resistansi 10 ohm dan dialiri arus listrik 10 A. Berapa tegangan listrik pada benda tersebut?",
+    "jawaban": "100 V"
+  },
+  {
+    "index": 60,
+    "soal": "Sebuah benda memiliki daya listrik 100 W. Berapakah energi listrik yang digunakan benda tersebut dalam waktu 1 jam?",
+    "jawaban": "360.000 J"
+  },
+{
+  "index": 61,
+  "soal": "Apa yang terjadi ketika sebuah benda bergerak dengan kecepatan konstan?",
+  "jawaban": "Inersia"
+},
+{
+  "index": 62,
+  "soal": "Apa yang terjadi ketika sebuah benda diberi gaya?",
+  "jawaban": "Percepatan"
+},
+{
+  "index": 63,
+  "soal": "Apa rumus gaya gravitasi?",
+  "jawaban": "F = Gm1m2/r^2"
+},
+{
+  "index": 64,
+  "soal": "Apa rumus gaya gesek?",
+  "jawaban": "F = μN"
+},
+{
+  "index": 65,
+  "soal": "Apa rumus gaya pegas?",
+  "jawaban": "F = -kx"
+},
+{
+  "index": 66,
+  "soal": "Apa satuan gaya?",
+  "jawaban": "Newton (N)"
+},
+{
+  "index": 67,
+  "soal": "Apa satuan massa?",
+  "jawaban": "Kilogram (kg)"
+},
+{
+  "index": 68,
+  "soal": "Apa satuan panjang?",
+  "jawaban": "Meter (m)"
+},
+{
+  "index": 69,
+  "soal": "Apa satuan waktu?",
+  "jawaban": "Detik (s)"
+},
+{
+  "index": 70,
+  "soal": "Apa satuan kecepatan?",
+  "jawaban": "Meter per detik (m/s)"
+},
+{
+  "index": 71,
+  "soal": "Apa satuan percepatan?",
+  "jawaban": "Meter per detik kuadrat (m/s^2)"
+},
+{
+  "index": 72,
+  "soal": "Apa satuan gaya gravitasi?",
+  "jawaban": "Newton meter kuadrat per kilogram kuadrat (N m^2/kg^2)"
+},
+{
+  "index": 73,
+  "soal": "Apa satuan gaya gesek?",
+  "jawaban": "Newton (N)"
+},
+{
+  "index": 74,
+  "soal": "Apa satuan gaya pegas?",
+  "jawaban": "Newton per meter (N/m)"
+},
+{
+  "index": 75,
+  "soal": "Apa rumus momen inersia?",
+  "jawaban": "I = Σmr^2"
+},
+{
+  "index": 76,
+  "soal": "Apa rumus energi kinetik?",
+  "jawaban": "Ek = (1/2)mv^2"
+},
+{
+  "index": 77,
+  "soal": "Apa rumus energi potensial gravitasi?",
+  "jawaban": "Ep = mgh"
+},
+{
+  "index": 78,
+  "soal": "Apa rumus energi potensial elastis?",
+  "jawaban": "Epe = (1/2)kx^2"
+},
+{
+  "index": 79,
+  "soal": "Apa rumus daya?",
+  "jawaban": "P = Fv"
+},
+{
+  "index": 80,
+  "soal": "Apa satuan daya?",
+  "jawaban": "Watt (W)"
+},
+
+{
+  "index": 81,
+  "soal": "Satuan SI untuk gaya adalah ...",
+  "jawaban": "Newton"
+},
+{
+  "index": 82,
+  "soal": "Hukum yang menyatakan bahwa percepatan suatu benda berbanding lurus dengan gaya yang bekerja padanya dan berbanding terbalik dengan massanya adalah ...",
+  "jawaban": "Hukum II Newton"
+},
+{
+  "index": 83,
+  "soal": "Besarnya gaya yang diperlukan untuk menahan benda agar tidak jatuh disebut ...",
+  "jawaban": "Berat"
+},
+{
+  "index": 84,
+  "soal": "Alat yang digunakan untuk mengukur gaya adalah ...",
+  "jawaban": "Neraca"
+},
+{
+  "index": 85,
+  "soal": "Satuan SI untuk energi adalah ...",
+  "jawaban": "Joule"
+},
+{
+  "index": 86,
+  "soal": "Jenis energi yang timbul akibat gerakan benda disebut ...",
+  "jawaban": "Energi kinetik"
+},
+{
+  "index": 87,
+  "soal": "Jenis energi yang timbul akibat kedudukan benda disebut ...",
+  "jawaban": "Energi potensial"
+},
+{
+  "index": 88,
+  "soal": "Hukum yang menyatakan bahwa energi tidak dapat diciptakan atau dimusnahkan, hanya dapat diubah dari satu bentuk ke bentuk lainnya disebut ...",
+  "jawaban": "Hukum kekekalan energi"
+},
+{
+  "index": 89,
+  "soal": "Alat yang digunakan untuk mengubah energi listrik menjadi energi mekanik adalah ...",
+  "jawaban": "Motor listrik"
+},
+{
+  "index": 90,
+  "soal": "Alat yang digunakan untuk mengubah energi mekanik menjadi energi listrik adalah ...",
+  "jawaban": "Generator"
+},
+{
+  "index": 91,
+  "soal": "Satuan SI untuk daya adalah ...",
+  "jawaban": "Watt"
+},
+{
+  "index": 92,
+  "soal": "Daya yang diperlukan untuk memindahkan suatu benda dengan kecepatan tetap melawan gaya gesek disebut ...",
+  "jawaban": "Daya gesek"
+},
+{
+  "index": 93,
+  "soal": "Alat yang digunakan untuk mengukur daya adalah ...",
+  "jawaban": "Wattmeter"
+},
+{
+  "index": 94,
+  "soal": "Jenis gelombang yang merambat melalui medium dan dapat berupa gelombang longitudinal atau gelombang transversal disebut ...",
+  "jawaban": "Gelombang mekanik"
+},
+{
+  "index": 95,
+  "soal": "Jenis gelombang yang merambat melalui ruang hampa dan merupakan gelombang transversal disebut ...",
+  "jawaban": "Gelombang elektromagnetik"
+},
+{
+  "index": 96,
+  "soal": "Satuan SI untuk frekuensi adalah ...",
+  "jawaban": "Hertz"
+},
+{
+  "index": 97,
+  "soal": "Satuan SI untuk panjang gelombang adalah ...",
+  "jawaban": "Meter"
+},
+{
+  "index": 98,
+  "soal": "Hubungan antara frekuensi, panjang gelombang, dan kecepatan gelombang dinyatakan oleh persamaan ...",
+  "jawaban": "v = f\u03bb"
+},
+{
+  "index": 99,
+  "soal": "Alat yang digunakan untuk mengukur frekuensi gelombang adalah ...",
+  "jawaban": "Frekuensimeter"
+},
+{
+  "index": 100,
+  "soal": "Alat yang digunakan untuk mengukur panjang gelombang adalah ...",
+  "jawaban": "Spektrometer"
+}
 ]
